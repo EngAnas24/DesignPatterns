@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\DesignPattern\\Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|d:\\c#\\designpattern\\factory\\factory\\factory\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\sedancar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\sedancar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\abstractfactory\\abstractcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\abstractfactory\\abstractcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\abstractfactory\\ixlargetire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\abstractfactory\\ixlargetire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\abstractfactory\\ilargetire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\abstractfactory\\ilargetire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\abstractfactory\\ismalltire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\abstractfactory\\ismalltire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\truckcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\truckcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|D:\\c#\\DesignPattern\\Factory\\factory\\factory\\suvcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D158-29C3-47DB-B089-9319676560ED}|Factory\\Factory.csproj|solutionrelative:factory\\factory\\suvcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IXLargeTire.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\IXLargeTire.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\AbstractFactory\\IXLargeTire.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\IXLargeTire.cs",
+              "RelativeToolTip": "Factory\\Factory\\AbstractFactory\\IXLargeTire.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:52:45.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILargeTire.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\ILargeTire.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\AbstractFactory\\ILargeTire.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\ILargeTire.cs",
+              "RelativeToolTip": "Factory\\Factory\\AbstractFactory\\ILargeTire.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:51:27.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISmallTire.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\ISmallTire.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\AbstractFactory\\ISmallTire.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\ISmallTire.cs",
+              "RelativeToolTip": "Factory\\Factory\\AbstractFactory\\ISmallTire.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:47:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractCarFactory.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\AbstractCarFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\AbstractFactory\\AbstractCarFactory.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\AbstractFactory\\AbstractCarFactory.cs",
+              "RelativeToolTip": "Factory\\Factory\\AbstractFactory\\AbstractCarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:45:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\CarFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\CarFactory.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\CarFactory.cs",
+              "RelativeToolTip": "Factory\\Factory\\CarFactory.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:25:03.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SedanCar.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\SedanCar.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\SedanCar.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\SedanCar.cs",
+              "RelativeToolTip": "Factory\\Factory\\SedanCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAxwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:11:27.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TruckCar.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\TruckCar.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\TruckCar.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\TruckCar.cs",
+              "RelativeToolTip": "Factory\\Factory\\TruckCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:11:16.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SUVCar.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\SUVCar.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\SUVCar.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\SUVCar.cs",
+              "RelativeToolTip": "Factory\\Factory\\SUVCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:11:04.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\Car.cs",
+              "RelativeDocumentMoniker": "Factory\\Factory\\Car.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Factory\\Car.cs",
+              "RelativeToolTip": "Factory\\Factory\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:03:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Factory\\Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Factory\\Program.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Factory\\Factory\\Program.cs",
+              "RelativeToolTip": "Factory\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:58:06.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

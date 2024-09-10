@@ -1,0 +1,7 @@
+D:\c#\DesignPattern\Behavioral\Iterator\Iterator\bin\Debug\Iterator.exe.config
+D:\c#\DesignPattern\Behavioral\Iterator\Iterator\bin\Debug\Iterator.exe
+D:\c#\DesignPattern\Behavioral\Iterator\Iterator\bin\Debug\Iterator.pdb
+D:\c#\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+D:\c#\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+D:\c#\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.exe
+D:\c#\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.pdb

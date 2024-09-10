@@ -1,0 +1,7 @@
+D:\c#\DesignPattern\Structural\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\c#\DesignPattern\Structural\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\c#\DesignPattern\Structural\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\c#\DesignPattern\Structural\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\c#\DesignPattern\Structural\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\c#\DesignPattern\Structural\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\c#\DesignPattern\Structural\Adapter\Adapter\obj\Debug\Adapter.pdb

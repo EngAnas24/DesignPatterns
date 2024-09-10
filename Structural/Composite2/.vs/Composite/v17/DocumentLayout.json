@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\DesignPattern\\Composite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|d:\\c#\\designpattern\\composite\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|d:\\c#\\designpattern\\composite\\composite\\composite\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|solutionrelative:composite\\composite\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|d:\\c#\\designpattern\\composite\\composite\\composite\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|solutionrelative:composite\\composite\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|d:\\c#\\designpattern\\composite\\composite\\composite\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F033802-ED67-408B-9E1D-AE4651429737}|Composite\\Composite.csproj|solutionrelative:composite\\composite\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Composite\\Composite\\Composite\\Manager.cs",
+              "RelativeDocumentMoniker": "Composite\\Composite\\Manager.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Composite\\Composite\\Composite\\Manager.cs",
+              "RelativeToolTip": "Composite\\Composite\\Manager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:50:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Composite\\Composite\\Composite\\Employee.cs",
+              "RelativeDocumentMoniker": "Composite\\Composite\\Employee.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Composite\\Composite\\Composite\\Employee.cs",
+              "RelativeToolTip": "Composite\\Composite\\Employee.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:44:45.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Composite\\Composite\\Composite\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Composite\\Composite\\IEmployee.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Composite\\Composite\\Composite\\IEmployee.cs",
+              "RelativeToolTip": "Composite\\Composite\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:44:15.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\Composite\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\Composite\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:43:13.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

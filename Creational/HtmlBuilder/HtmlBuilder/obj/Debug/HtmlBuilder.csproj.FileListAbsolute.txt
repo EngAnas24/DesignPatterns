@@ -1,0 +1,7 @@
+D:\c#\DesignPattern\Creational\HtmlBuilder\HtmlBuilder\bin\Debug\HtmlBuilder.exe.config
+D:\c#\DesignPattern\Creational\HtmlBuilder\HtmlBuilder\bin\Debug\HtmlBuilder.exe
+D:\c#\DesignPattern\Creational\HtmlBuilder\HtmlBuilder\bin\Debug\HtmlBuilder.pdb
+D:\c#\DesignPattern\Creational\HtmlBuilder\HtmlBuilder\obj\Debug\HtmlBuilder.csproj.AssemblyReference.cache
+D:\c#\DesignPattern\Creational\HtmlBuilder\HtmlBuilder\obj\Debug\HtmlBuilder.csproj.CoreCompileInputs.cache
+D:\c#\DesignPattern\Creational\HtmlBuilder\HtmlBuilder\obj\Debug\HtmlBuilder.exe
+D:\c#\DesignPattern\Creational\HtmlBuilder\HtmlBuilder\obj\Debug\HtmlBuilder.pdb

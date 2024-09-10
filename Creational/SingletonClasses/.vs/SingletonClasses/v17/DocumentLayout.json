@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\DesignPattern\\SingletonClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E4B872-15B8-4FDB-B057-CC0B0EA82931}|SingletonClasses\\SingletonClasses.csproj|d:\\c#\\designpattern\\singletonclasses\\singletonclasses\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E4B872-15B8-4FDB-B057-CC0B0EA82931}|SingletonClasses\\SingletonClasses.csproj|solutionrelative:singletonclasses\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E4B872-15B8-4FDB-B057-CC0B0EA82931}|SingletonClasses\\SingletonClasses.csproj|D:\\c#\\DesignPattern\\SingletonClasses\\singletonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E4B872-15B8-4FDB-B057-CC0B0EA82931}|SingletonClasses\\SingletonClasses.csproj|solutionrelative:singletonclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\SingletonClasses\\SingletonClasses\\Class.cs",
+              "RelativeDocumentMoniker": "SingletonClasses\\Class.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\SingletonClasses\\SingletonClasses\\Class.cs",
+              "RelativeToolTip": "SingletonClasses\\Class.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:20:55.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\DesignPattern\\SingletonClasses\\SingletonClasses\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonClasses\\Program.cs",
+              "ToolTip": "D:\\c#\\DesignPattern\\SingletonClasses\\SingletonClasses\\Program.cs",
+              "RelativeToolTip": "SingletonClasses\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:57:27.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

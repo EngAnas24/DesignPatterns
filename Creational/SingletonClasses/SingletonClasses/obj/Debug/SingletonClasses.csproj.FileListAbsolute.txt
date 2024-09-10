@@ -1,0 +1,7 @@
+D:\c#\DesignPattern\SingletonClasses\SingletonClasses\bin\Debug\SingletonClasses.exe.config
+D:\c#\DesignPattern\SingletonClasses\SingletonClasses\bin\Debug\SingletonClasses.exe
+D:\c#\DesignPattern\SingletonClasses\SingletonClasses\bin\Debug\SingletonClasses.pdb
+D:\c#\DesignPattern\SingletonClasses\SingletonClasses\obj\Debug\SingletonClasses.csproj.AssemblyReference.cache
+D:\c#\DesignPattern\SingletonClasses\SingletonClasses\obj\Debug\SingletonClasses.csproj.CoreCompileInputs.cache
+D:\c#\DesignPattern\SingletonClasses\SingletonClasses\obj\Debug\SingletonClasses.exe
+D:\c#\DesignPattern\SingletonClasses\SingletonClasses\obj\Debug\SingletonClasses.pdb

@@ -1,0 +1,7 @@
+D:\c#\DesignPattern\Factory\Factory\bin\Debug\Factory.exe.config
+D:\c#\DesignPattern\Factory\Factory\bin\Debug\Factory.exe
+D:\c#\DesignPattern\Factory\Factory\bin\Debug\Factory.pdb
+D:\c#\DesignPattern\Factory\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+D:\c#\DesignPattern\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+D:\c#\DesignPattern\Factory\Factory\obj\Debug\Factory.exe
+D:\c#\DesignPattern\Factory\Factory\obj\Debug\Factory.pdb
